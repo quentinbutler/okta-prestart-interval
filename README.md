@@ -1,7 +1,7 @@
 # okta-prestart-interval
 
 
-## Before you get Started / Prerequisites
+## Before you get started / prerequisites
 Before you get started, you will need:
 
 Access to an Okta tenant with Okta Workflows enabled for your org
