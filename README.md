@@ -35,4 +35,6 @@ Compliment the prestart interval by building a profile checker that activates im
 
 ![PreStart Interval](https://user-images.githubusercontent.com/87619174/147149655-eb68bbf6-ee5c-4897-9dbd-03c928dc6f6f.png)
 
+Resources:
 
+https://help.okta.com/en/prod/Content/Topics/Provisioning/Workday/workday-provisioning.htm
