@@ -12,7 +12,7 @@ Workday as Master
 
 "Preparation makes perfect" 
 
-By default, Workday imports new hires on their start date. What if on that start date you have 20 engineers joining and you run out of SaaS licenses? What if there is a user with a mispelled name? What if the user doesn't have access to all of their day 1 apps?
+By default, Workday imports new hires on their start date. What if on that start date you have 20 engineers joining and you run out of SaaS licenses? What if there is a user with a misspelled name? What if the user doesn't have access to all of their day 1 apps?
 
 The PreStart Interval is an optional field for early provisioning of Workday users. It allows you to onboard a user account into Okta prior to the official Worker/Employee Date (this is the employee’s actual start date). 
 
